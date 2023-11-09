@@ -1,2 +1,2 @@
 # Mini-RSA
-School project when I implement a simplified version of RSA Cypher
+School project where I implement a simplified version of RSA Cypher
